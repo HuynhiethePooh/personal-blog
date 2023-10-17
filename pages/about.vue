@@ -1,8 +1,8 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="About Us"
-      subtitle="Example About Page"
+      title="About Me"
+      subtitle="Why does this page exist?"
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
@@ -28,7 +28,6 @@
             sunt temporibus. Distinctio doloremque eum magni nostrum quasi
             ratione rem repudiandae sit!
           </p>
-          <quote-card />
           <h3>Still More Fake Content</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
@@ -42,7 +41,7 @@
           </p>
         </div>
 
-        <div class="tile is-ancestor">
+        <!-- <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
@@ -82,7 +81,7 @@
               </figure>
             </article>
           </div>
-        </div>
+        </div> -->
       </template>
 
       <template v-slot:sidebar>
