@@ -1,0 +1,5 @@
+---
+name: Writing about books that I have read
+image: ./assets/uploads/seoul-library.jpg
+---
+Notes on books I've read, some may be sporatic while others will be summaries and thoughts
