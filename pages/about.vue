@@ -8,36 +8,24 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>Going through your 20's in the modern world</h3>
           <p>
-            <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
-            </strong>
-          </p>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            I have always loved going to random longform blogs and just reading
+            even though it's a much less sexy alternative to quick videos and social
+            media. There is something about finding these little nooks and crannies 
+            where people write about what they love regardless of the view counts. Primarily
+            growing up a STEM kid and not being great at English or writing, I've found an 
+            appreciation for the art of writing and would love to have my own little corner of the
+            internet to do so.
           </p>
 
-          <h3>Another Fake Heading</h3>
+          <h3>What is the point of my website?</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
-          </p>
-          <h3>Still More Fake Content</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit! Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit.
-            <strong>Alias aut facere harum ipsam</strong> quibusdam quidem
-            quisquam saepe? Alias architecto blanditiis consequatur consequuntur
-            dicta ipsa iste modi provident, quod, similique veritatis.
+            Honestly, I don't know! I have so many passions just like everyone else growing up in such 
+            a fast paced world, but they still feel special to me. Being able to see the special even if
+            none of us are really that unique feels so human. I plan on writing about food, travels, books and
+            whatever else I obsess with at the moment. Maybe the one person who somehow finds my corner of the internet
+            feels connected to me for a moment too!
           </p>
         </div>
 
