@@ -3,7 +3,7 @@
     <site-hero
       title="About Me"
       subtitle="Why does this page exist?"
-      image="/uploads/about-hero.jpg"
+      image="/uploads/fall-tennis-courts.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
