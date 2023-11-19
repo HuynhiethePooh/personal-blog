@@ -1,12 +1,21 @@
 ---
-title: Nonviolent Communication
-subtitle: Connection through Listening and Empathy
+title: Food Weekend in Portland 2023
+subtitle: Sushi, Korean fusion and Third Wave Coffee!
 category:
-  - Writing about books that I have read
+  - Food Trips
 author: Dan Huynh
 date: 2023-11-02T12:30:00.800Z
-featureImage: https://m.media-amazon.com/images/I/61tHUIggQaL._AC_UF1000,1000_QL80_.jpg
+featureImage:
 ---
+
+Portland has one of the fastest growing Asian communities in the entire United States! I haven't been there in 2 years so I knew I wanted to try out some new places and I was **not** disapointed. 
+
+### Clickbait Title: \$30 sushi vs. \$100 sushi???
+So I have been meaning to try out Yoshi's Sushi since I saw a Munchies video on the food truck back in 2021. It can be really difficult to obtain said sushi though, as he is only open from Tuesday-Saturday for short lunch and dinner hours. You also have to call ahead to order as he makes all the orders fresh right in time for pick up! That's why within 5 minutes of picking up my car, I immediately called so I could pick up right at noon!
+
+Yoshi serves his sushi out of an inconspicuous yellow food truck located right in the French Quarter in Southwest Portland. I ordered Salmon Nigiri, Scallop Nigiri and a Spicy Tuna roll that was topped with crispy onions and seared Scallop. 
+
+
 
 > #### *"Behind intimidating messages are merely people appealing to us to meet their needs"*
 
