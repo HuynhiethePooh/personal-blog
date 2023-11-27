@@ -17,6 +17,8 @@ Yoshi serves his sushi out of an inconspicuous yellow food truck located right i
 
 Even after spending most of the summer in Japan, I have to say this sushi was just as good as most of the places I ate at within the same price point. I can definitely see why the truck is hyped and I would highly recommend being able to say that you had amazing food truck sushi.
 
+<img src="../../assets/uploads/yoshi-sushi.jpeg" width="1000" height="667"/>
+
 ### Gimbap Party!
 I love grabbing Gimbap at the store on the way home, so reading that it was offered as the star of a tasting menu caught my attention. Luckily my friends were willing to try it out with me so I didn't have to sit at a table by myself while I tried to figure out what a Gimbap Party was. 
 
@@ -25,8 +27,10 @@ When we arrived at the restaurant I got an Umami Mammie, which was basically a G
 I didn't think that I would be able to justify spending so much on a Gimbap meal, but I honestly can say it was worth it. The vibe of the meal was relaxed but fun while the staff were on top of it. The only dissapointing part was that they were not able to finish the night off with Karaoke, where they normally get some bops going with the crew and possible participants at their tables. I was definitely hoping to ruin some meals while poorly singing Olivia. 
 
 ### Toki
+We made a stop at Toki, which has become the location where Han Oak has moved their more casual and ala carte items. 
 
-
-### Coffee 
+### Coffee
+Since I was last in Portland I've grown to love coffee and even though my tastes aren't exteremely refined or anything, I love checking out third wave coffee shops whenever I go to a new city now. Luckily Portland has a crazy diverse coffee scene so I was able to get my fair share. I was able to grab Coava Coffee, Deadstock Coffee roasters and PUSH X PULL and I loved the single origin blends I tried. 
 
 ### Nimblefish
+I started my trip with sushi from a food truck, so I thought it was only fitting that I ended with an omakase that cost triple that amount. We got a reservation for 3 for our last meal before our flight back and it was probably one of the best sushi meals I've had in a while (this is including 2 months in Japan)!! We got a 
