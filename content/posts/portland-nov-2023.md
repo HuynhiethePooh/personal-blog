@@ -2,10 +2,10 @@
 title: Food Weekend in Portland 2023
 subtitle: Sushi, Korean fusion and Third Wave Coffee!
 category:
-  - Food Trips
+  - Writing about books that I have read
 author: Dan Huynh
 date: 2023-12-05T14:30:00.800Z
-featureImage: /uploads/yoshi-sushi-truck.jpeg
+featureImage: /uploads/yoshi-truck.jpeg
 ---
 
 Portland has one of the fastest growing Asian communities in the entire United States! I haven't been there in 2 years so I knew I wanted to try out some new places and I was **not** disapointed. 
