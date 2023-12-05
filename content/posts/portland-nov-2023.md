@@ -5,59 +5,40 @@ category:
   - Food Trips
 author: Dan Huynh
 date: 2023-11-02T12:30:00.800Z
-featureImage:
+featureImage: /uploads/yoshi-sushi-truck.jpeg
 ---
 
 Portland has one of the fastest growing Asian communities in the entire United States! I haven't been there in 2 years so I knew I wanted to try out some new places and I was **not** disapointed. 
 
-### Clickbait Title: \$30 sushi vs. \$100 sushi???
-So I have been meaning to try out Yoshi's Sushi since I saw a Munchies video on the food truck back in 2021. It can be really difficult to obtain said sushi though, as he is only open from Tuesday-Saturday for short lunch and dinner hours. You also have to call ahead to order as he makes all the orders fresh right in time for pick up! That's why within 5 minutes of picking up my car, I immediately called so I could pick up right at noon!
+### Food Truck Sushi
+I have been meaning to try out Yoshi's Sushi since I saw a Munchies video on the food truck back in 2021. It can be really difficult to obtain said sushi though, as he is only open from Tuesday-Saturday for short lunch and dinner hours. You also have to call ahead to order as he makes all the orders fresh right in time for pick up! That's why within 5 minutes of picking up my car, I immediately called so I could pick up right at noon!
 
-Yoshi serves his sushi out of an inconspicuous yellow food truck located right in the French Quarter in Southwest Portland. I ordered Salmon Nigiri, Scallop Nigiri and a Spicy Tuna roll that was topped with crispy onions and seared Scallop. 
+Yoshi serves his sushi out of an inconspicuous yellow food truck located right in the French Quarter in Southwest Portland. I ordered Salmon Nigiri, Scallop Nigiri and a Spicy Tuna roll that was topped with crispy onions and seared Scallop. Yoshi had my sushi ready right at noon for pick up and I sat down right in the French Quarter to enjoy my meal. I couldn't believe how fresh the sushi looked, and it tasted just as fresh as it looked!
 
+Even after spending most of the summer in Japan, I have to say this sushi was just as good as most of the places I ate at within the same price point. I can definitely see why the truck is hyped and I would highly recommend being able to say that you had amazing food truck sushi.
 
+<img src="../../assets/uploads/yoshi-sushi.jpeg" width="1000" height="667"/>
 
-> #### *"Behind intimidating messages are merely people appealing to us to meet their needs"*
+### Gimbap Party!
+I love grabbing Gimbap at the store on the way home, so reading that it was offered as the star of a tasting menu caught my attention. Luckily my friends were willing to try it out with me so I didn't have to sit at a table by myself while I tried to figure out what a Gimbap Party was. 
 
-Nonviolent Communication (also known as NVC) is one of those books that puts together so many important little nuances and patterns in such a succinct way. Being able to have a framework along with tools to be able to show up with empathy is something I've found extremely useful in my life. Sometimes it can be hard in such a fast-paced day to just say whatever comes to our mind or listen to others without the intent of truly understanding. I think a reminder that putting in the effort to show up for others compassionately makes all our lives more fulfilling. 
+When we arrived at the restaurant I got an Umami Mammie, which was basically a Gimlet with the umami pumped up to 11. The added sesame and miso added a ton of salty aftertaste to the drink and I actually really loved it. They started us off with some banchan and suyuk and the broth was so rich we were all grabbing as much as we could with our spoons. The party portion of the meal was essentially a deconstructed Gimbap! The sizzling bulgolgi and pork belly were amazing, but the real star of the protein show was the Hokkaido scallop which paired perfectly with the tangy mayo sauce they served it with. 
 
+I didn't think that I would be able to justify spending so much on a Gimbap meal, but I honestly can say it was worth it. The vibe of the meal was relaxed but fun while the staff were on top of it. The only dissapointing part was that they were not able to finish the night off with Karaoke, where they normally get some bops going with the crew and possible participants at their tables. I was definitely hoping to ruin some meals while poorly singing Olivia. 
+<img src="../../assets/uploads/gimbap-spread.jpeg" width="400" height="500"/>   <img src="../../assets/uploads/han-oak-banchan.jpeg" width="600" height="400"/>
 
-
-## Observations, Feelings, Needs and Requests
-Being able to structure how we communicate to include these 4 aspects can be powerful once we understand why we should do so. Rosenberg goes through many situations in our life that may provide conflict, from asking someone to pick up their dirty socks to dealing with racial prejudice in underrepresented communities. It was really powerful to think that when we are not understanding these aspects about ourselves and the people we speak to, we open up the door to hurt and betrayal. It can be easy to see aggresive comments and criticism on oneself, but in a lot of cases taking the time to communicate with someone with empathy can show the hidden need to be understood that most of us are yearning for. 
-
-A theme that I thought was compelling was **Analysis of others being expressions of our own needs and values**. When we respond in a way that isn't consistent with our own desires it can wear down on us. This is why people-pleasing can be such a dangerous way to respond to others, you eventually wear yourself out if you are not being authentic. When others are not acting out of goodwill or how they may like, interactions can become transactional and artificial. Not saying we should never do anything for others or vice-versa, but when we take the time to understand the actions of others from **their** values and morals we can understand why people may act in ways we don't expect. 
-
-> #### *"Analyses of others are actually expressions of our own needs and values"*
-
-## "Feelings with needs" Framework
-
-> #### *"Connect your feeling with your need: "I feel ... because I need ...""*
-
-If I had to choose one take from this book to remember it would be this framework. When we connect our needs with the feelings behind them we force ourselves to understand the reasoning behind our communication. We may sound naggy or demanding when we are asking people to do things for us, and that can be intimidating when you don't how to ask for something you need. When we structure our request with the feelings behind them we can make ourselves process why we are asking for something. It sounds easy to say you know why you are asking for things, but sometimes that is harder than it sounds. Just from my experience these needs when expressed without the intent behind them can create a lot of disconnection between two people.
-
-##### I need space
-You start panicking when someone may need space if you think it's your fault, but what if it was communicated that the space is needed because the person feels overwhelmed? 
-##### Can you run this errand for me?
-What if you had a really rough day and are at your limit? Letting someone know that a small task could really improve your day is a great way of building trust and bonds.
-##### I can't do this activity with you today
-There are days where everyone feels a bit anxious or just too tired to do something. Being able to communicate how you feel before that can help others not feel rejected or not good enough.
-
-This framework can be used to listen to others meaningfully too. When someone communicates a need to us without their feelings it can be easy to misinterpret their intentions or their reasonings. When we can hear what they are saying and ask questions like "How are you feeling about this?" or "So you are asking for this because it would help you feel like this?" we extend a hand for others to feel more understood and seen by us. Sometimes they may not even know why they are asking for something! As someone who is more accustomed to viewing things from a logical and "What steps are there for me to take?" perspective, these are sort of like instructions to something that can be hard to navigate at times. I've noticed that incorporating these definable questions into my life has changed the way I approach listening. 
-
-> #### *"We "say a lot" by listening for other people's feelings and needs""*
-
-## Appreciation for others
-
-How do we truly give appreciation to celebrate rather than to manipulate? When we are grateful for what others have done are we celebrating their contributions to our lives or are we doing so to ask for more? Rosenberg breaks appreciation into three components:
-
-1 - mentioning which actions contributed to our well-being
-2 - which needs of ours were fulfilled by these actions
-3 - the positive feelings we have from those needs being fulfilled
-
-Of course if we always were to list off these components when we feel appreciation we are probably going to come off as robotic or crazy. I think that giving more depth to our gratitude can connect people to understand us better and how thankful we are to them. Reflecting over this yourself can be helpful to understand what to ask for and I've found that it has improved my gratefulness for even the smallest things people do for me. 
+### Machete!!
+My friends told me about a pop up that their friend had started recently, offering huge Machetes made of colorful dough with modern Mexican flavors. I made sure to make them give me a ride over as I happened to be in town right when Machetes had opened their first location in a month! I feel like pop ups are becoming really popular nowadays, and for good reason! I wasn't able to get a good picture of my food as it was really dark, but the food wasn't even around for very long as I scarfed it down in less than 5 minutes. Their instagram can be found [here](https://www.instagram.com/machetes.pdx/?hl=en) 
 
 
-## Final Thoughts
+### Coffee
+Since I was last in Portland I've grown to love coffee and even though my tastes aren't exteremely refined or anything, I love checking out third wave coffee shops whenever I go to a new city now. Luckily Portland has a crazy diverse coffee scene so I was able to get my fair share. I stopped at Deadstock Coffee Roasters, which has a streetwear & hypebeast aesthetic, for a Espresso Coke drink. PUSH X PULL was a modern coffee shop that offered typical but really good espresso options. Coava is a staple in Portland coffee and for a good reason, their single origin brew that I had was clean and light, the perfect drink as I sat in their large industrial space and started this page. After 2 years of drinking coffee I'm finally 50% confident on the taste difference between Single and Mixed Origin blends so I'm excited to see if I can keep telling myself I have taste.
 
-Like most books on communication most of this book could be summarized to "have empathy, communicate clearly and listen more". I think that simplification can be misleading though, as a lot of us can always improve on our communication. The components and questions that NVC tells us to keep in mind are like exercises that train mindfulness when we speak and listen. It's like asking someone to get stronger, but not giving them a set of workouts to get to that point. The book is a really easy and quick read and I am going to look over my kindle notes on this book every once in a while as a refresher.
+<img src="../../assets/uploads/pushxpull-coffee.jpeg" width="300" height="400"/> <img src="../../assets/uploads/deadstock-coffee.jpeg" width="300" height="400"/> <img src="../../assets/uploads/coava-coffee.jpeg" width="300" height="400"/>
+
+### Nimblefish
+I started my trip with sushi from a food truck, so I thought it was only fitting that I ended with an Omakase that cost triple that amount. We got a reservation for 3 for our last meal before our flight back and it was probably one of the best sushi meals I've had in a while (this is including 2 months in Japan)!! Different Nigiri's flown in from Hokkaido, Korea, Mainland Japan and Spain gave us a variety of fresh fish while I learned all about how seafood is flown internationally into Portland. Traditionally there weren't many international sellers for fresh fish from Tsukiji so you had to buy sushi from the intermediate of LA. This is why LA was known for having the best sushi for so long. In the early 2010's Tsukiji opened up their fish purchasing to a lot more "fish brokers" and that led to pretty much any area with an international airport having access to freshly flown fish. This made it possible for areas like Portland or Minneapolis to have access to more Otoro and other unique cuts. 
+
+There were so many different varieties of fish and I had a ton of new species I didn't even know existed. I have never liked any Uni I have had, and the Murasaki/Purple Uni here finally changed my mind. The flavor wasn't as musty and tasted so fresh that I have done a full 180 on my Uni opinions! Another highlight was also a fatty White Tuna from Seoul that was just as rich as Bluefin Tuna but had a lighter flavor. I also got to try their Hokkaido scallops and they were somehow even better than the cuts I had at Yoshi's! I started getting real FOMO from not eating more scallops when I was in Hokkadio. I would definitely recommend Nimblefish to anyone who loves sushi and wants an amazing Omakase experience at a reasonable price that is definitely worth it.
+
+<img src="../../assets/uploads/hokkaido-scallop.jpg" width="300" height="400"/> <img src="../../assets/uploads/uni-sushi.jpeg" width="300" height="400"/> <img src="../../assets/uploads/seared-toro.jpg" width="300" height="400"/>
