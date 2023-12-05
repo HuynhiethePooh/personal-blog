@@ -4,7 +4,7 @@ subtitle: Sushi, Korean fusion and Third Wave Coffee!
 category:
   - Food Trips
 author: Dan Huynh
-date: 2023-11-02T12:30:00.800Z
+date: 2023-12-05T14:30:00.800Z
 featureImage: /uploads/yoshi-sushi-truck.jpeg
 ---
 
