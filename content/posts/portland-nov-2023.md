@@ -28,12 +28,6 @@ When we arrived at the restaurant I got an Umami Mammie, which was basically a G
 I didn't think that I would be able to justify spending so much on a Gimbap meal, but I honestly can say it was worth it. The vibe of the meal was relaxed but fun while the staff were on top of it. The only dissapointing part was that they were not able to finish the night off with Karaoke, where they normally get some bops going with the crew and possible participants at their tables. I was definitely hoping to ruin some meals while poorly singing Olivia. 
 ![gimbap spread](/uploads/gimbap-spread.jpeg) ![banchans](/uploads/han-oak-banchan.jpeg)
 
-![Gimbap Spread](/uploads/gimbap-spread.jpeg)
-
-
-
-![Banchan](/uploads/han-oak-banchan.jpeg)
-
 ### Machete!!
 
 My friends told me about a pop up that their friend had started recently, offering huge Machetes made of colorful dough with modern Mexican flavors. I made sure to make them give me a ride over as I happened to be in town right when Machetes had opened their first location in a month! I feel like pop ups are becoming really popular nowadays, and for good reason! I wasn't able to get a good picture of my food as it was really dark, but the food wasn't even around for very long as I scarfed it down in less than 5 minutes. Their instagram can be found [here](https://www.instagram.com/machetes.pdx/?hl=en) 
@@ -46,7 +40,7 @@ Since I was last in Portland I've grown to love coffee and even though my tastes
 
 ![Deadstock Coffee](/uploads/deadstock-coffee.jpeg)
 
-![](/uploads/pushxpull-coffee.jpeg)
+![PushXPull Coffee](/uploads/pushxpull-coffee.jpeg)
 
 ### Nimblefish
 
@@ -55,3 +49,5 @@ I started my trip with sushi from a food truck, so I thought it was only fitting
 There were so many different varieties of fish and I had a ton of new species I didn't even know existed. I have never liked any Uni I have had, and the Murasaki/Purple Uni here finally changed my mind. The flavor wasn't as musty and tasted so fresh that I have done a full 180 on my Uni opinions! Another highlight was also a fatty White Tuna from Seoul that was just as rich as Bluefin Tuna but had a lighter flavor. I also got to try their Hokkaido scallops and they were somehow even better than the cuts I had at Yoshi's! I started getting real FOMO from not eating more scallops when I was in Hokkadio. I would definitely recommend Nimblefish to anyone who loves sushi and wants an amazing Omakase experience at a reasonable price that is definitely worth it.
 
 ![Seared Toro](/uploads/seared-toro.jpg)
+![Hokkaido Scallop](/uploads/hokkaido-scallop.jpg)
+![Uni](/uploads/uni-sushi.jpeg)
