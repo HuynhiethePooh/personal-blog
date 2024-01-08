@@ -11,7 +11,7 @@ featureImage: /uploads/dahlia-drop.jpeg
 
 In 2023 the Twin Cities food scene saw loads of new restaurants and the closing of old favorites, but it seems like it's going somewhere really special.
 
-Minneapolis and Saint Paul have gone through covid and lockdowns like many others. I have always thought that one challenge but also opportunity for the twin cities is that they aren't as established fully as more developed food scenes like Chicago, LA or NYC. That's not to say that there isn't an identity to food in Minnesota, but the last few decades have brought so many ethnic groups along with the potential for great diverse food. When a city is going through so much growth and change, setbacks like old favorites going out of business seem massive, but there is so much canvas for a future out of that.
+Minneapolis and Saint Paul have gone through covid and lockdowns like every other city. I have always thought that one challenge but also opportunity for the twin cities is that they aren't as established fully as more developed food scenes like Chicago, LA or NYC. That's not to say that there isn't an identity to food in Minnesota, but the last few decades have brought so many ethnic groups along with the potential for great diverse food. When a city is going through so much growth and change, setbacks like old favorites going out of business seem massive, but there is so much canvas for a future out of that.
 
 ### Pop-ups and small food vendors
 
