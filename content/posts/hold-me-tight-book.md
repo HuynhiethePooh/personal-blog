@@ -5,7 +5,8 @@ category:
   - Writing about books that I have read
 author: Dan Huynh
 date: 2023-10-23T12:30:00.800Z
-featureImage: https://drsuejohnson.com/wp-content/uploads/2020/01/hold_me_tight.jpg
+featureImage: 
+# https://drsuejohnson.com/wp-content/uploads/2020/01/hold_me_tight.jpg
 ---
 
 > #### *"It is not that he does not care for or need her; it is that he cannot deal with the fear of losing her."*
