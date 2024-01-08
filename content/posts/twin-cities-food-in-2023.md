@@ -7,7 +7,6 @@ author: Dan Huynh
 date: 2024-01-04T20:49:06.922Z
 featureImage: /uploads/dahlia-drop.jpeg
 ---
-![]()
 
 In 2023 the Twin Cities food scene saw loads of new restaurants and the closing of old favorites, but it seems like it's going somewhere really special.
 
@@ -17,7 +16,7 @@ Minneapolis and Saint Paul have gone through covid and lockdowns like every othe
 
 Anyone who has spoken to me recently knows that I am pretty much obsessed with [Dahlia](https://www.eatatdahlia.com), a pop-up team formed from ex-travail kitchen members. I've went to various pop ups this year consisting of pastries, sandwiches, burgers, cakes that have traditional flavors but with a spin that you don't normally find at most bakeries. I custom ordered a birthday cake for my sister through Dahlia! 
 
-![](/uploads/ann-bday-cake.jpeg "Ann's Birthday Cake!")
+![Ann's Birthday Cake!](/uploads/ann-bday-cake.jpeg )
 
 I love the idea of a pop-up because it's usually in collaboration with other small businesses and bringing more attention to both parties creates this sense of community and discovery! It's nice to feel like you are being recognized (for buying so much of their food) and seeing the faces that make your food on a regular basis!
 
@@ -29,11 +28,11 @@ There is something really heartwarming seeing so many people start to embrace As
 
 There may be some recency bias, but my favorite restaurant that has opened up this year must be Gai Noi. I'm a huge fan of Khaluna so I wasn't very surprised to like another restaurant by Ann Ahmed, but I didn't think it would be one of my new favorites in the cities! The vibes inside the restaurant are perfect for a night out with friends and the prices are very reasonable for what you get. Their cocktails are simple but I love the pea flower and pandan inspired ones. Their Thai Basil wings are also pretty much the same as the ones at Khaluna, but cheaper and still my favorite in the city! My favorite dish there has to be the panang spaghetti, which was al dente both times I have gotten it with the curry flavor really complimenting any dish you pair it with!
 
-![](/uploads/gai-noi-vibes.jpeg "Gai Noi Interior")
+![Gai Noi Interior](/uploads/gai-noi-vibes.jpeg )
 
-![](/uploads/gai-noi-panang-spaghetti.jpeg "Panang Spaghetti")
+![Panang Spaghetti](/uploads/gai-noi-panang-spaghetti.jpeg)
 
-![](/uploads/gai-noi-thai-wings.jpeg "Thai Wings")
+![Thai Wings](/uploads/gai-noi-thai-wings.jpeg)
 
 ### Suburban Expansion - Good or Bad?
 
@@ -55,14 +54,12 @@ There are a lot of suburban options that are chains or may seem bland, but I've 
 
 As a consumer of food I have a more hopeful and optimistic outlook on where the Twin Cities are headed, but maybe that's not such a bad thing. They will always have a special spot in my heart and I can't wait to see how they continue to grow!
 
-![](/uploads/estelle-bday.jpeg "Bday Dinner at Estelle")
+![Bday Dinner at Estelle](/uploads/estelle-bday.jpeg)
 
-![](/uploads/baba-hummus.jpeg "Coffee at Baba Hummus")
+![Coffee at Baba Hummus](/uploads/baba-hummus.jpeg)
 
-![](/uploads/dahlia-at-mortys.jpeg "Dahlia Drop at Morty's Deli")
+![Dahlia Drop at Morty's Deli](/uploads/dahlia-at-mortys.jpeg)
 
+![Taro Latte at Tous Les Jours](/uploads/tous-les-jours-mpls.jpeg)
 
-
-![](/uploads/tous-les-jours-mpls.jpeg "Taro Latte at Tous Les Jours")
-
-![](/uploads/rolls-at-billy.jpeg "Some Rolls at Billy Sushi")
+![Some Rolls at Billy Sushi](/uploads/rolls-at-billy.jpeg)
