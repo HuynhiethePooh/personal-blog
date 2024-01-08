@@ -5,7 +5,7 @@ category:
   - Writing about books that I have read
 author: Dan Huynh
 date: 2023-11-02T12:30:00.800Z
-featureImage: https://m.media-amazon.com/images/I/61tHUIggQaL._AC_UF1000,1000_QL80_.jpg
+featureImage: https://m.media-amazon.com/images/I/41VoMbCsuHL.jpg
 ---
 
 > #### *"Behind intimidating messages are merely people appealing to us to meet their needs"*
