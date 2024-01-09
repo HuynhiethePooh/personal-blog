@@ -4,16 +4,16 @@ subtitle: Community, Pop-ups and so much Diversity
 category:
   - Food Trips
 author: Dan Huynh
-date: 2024-01-04T20:49:06.922Z
+date: 2024-01-09T19:48:08.902Z
 featureImage: /uploads/dahlia-drop.jpeg
 ---
 In 2023 the Twin Cities food scene saw loads of new restaurants and the closing of old favorites, but it seems like it's going somewhere really special.
 
-Minneapolis and Saint Paul have gone through covid and lockdowns like every other city. I have always thought that one challenge but also opportunity for the Twin Cities is that they aren't as established fully compared to more developed food scenes like Chicago, LA or NYC. That's not to say that there isn't an identity to food in Minnesota, but the last few decades have brought so many ethnic groups along with the potential for great diverse food. When a city is going through so much growth and change, setbacks like old favorites going out of business seem massive, but there is also all this new space for growth.
+Minneapolis and Saint Paul have gone through covid and lockdowns like every other city. One challenge for the Twin Cities is that they aren't as established fully compared to more developed food scenes like Chicago, LA or NYC. I also think that having a younger food scene is an opportunity to develop a more robust and inclusive community. That's not to say that there isn't an identity to food in Minnesota, but the last few decades have brought so many ethnic groups along with the potential for great diverse food. When a city is going through so much growth and change, setbacks like old favorites going out of business seem massive, but there is also all this new space for growth.
 
 ### Pop-ups and small food vendors
 
-Anyone who has spoken to me recently knows that I am pretty much obsessed with [Dahlia](https://www.eatatdahlia.com), a pop-up team formed from ex-travail kitchen members. I've went to various pop ups this year consisting of pastries, sandwiches, burgers, cakes that have traditional flavors but with a spin that you don't normally find at most bakeries. I even custom ordered a birthday cake for my sister through Dahlia! 
+Anyone who has spoken to me recently knows that I am pretty much obsessed with [Dahlia](https://www.eatatdahlia.com), a pop-up team formed from ex-travail kitchen members. I've went to various pop ups this year consisting of pastries, sandwiches, burgers, cakes that have traditional flavors but with a spin that you don't normally find at most bakeries. Some of my favorite foods have been the Peach Kouign Amann, the Butternut Squash Croissant and the Matcha Coconut Croissant. I even custom ordered a birthday cake for my sister through Dahlia! 
 
 ![Ann's Birthday Cake!](/uploads/ann-bday-cake.jpeg )
 
