@@ -15,7 +15,7 @@ For me, it was important to try a restaurant that is really fancy, but also isnâ
 
 The little plates that make up the beginning of the meal do a great job at giving a sneak peak! They are all these little flavor bombs that have a variety of flavors in these tiny 1 bite snacks. I loved the pepper broth they brought out first as it was simple but also the Gola Pepper they used had the aged and sour but hearty flavors that I hadn't had in a broth before.
 
-![](/uploads/ikoyi-1.jpeg "Gola Pepper Broth")
+![Gola Pepper Broth](/uploads/ikoyi-1.jpeg)
 
 The 3 bites consisted of a Smoked Sirloin, an Artichoke Caesar and Drunken Squid with Fermented Rice. All bites had a huge contrast in the textures combining crunchy with melty with flaky and it was overwhelming but in a good way. It felt like once I could pinpoint down how to describe a taste, another one would follow up and keep surprising me!
 
