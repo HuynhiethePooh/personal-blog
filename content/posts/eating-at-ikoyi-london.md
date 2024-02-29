@@ -15,6 +15,8 @@ For me, it was important to try a restaurant that is really fancy, but also isnâ
 
 The little plates that make up the beginning of the meal do a great job at giving a sneak peak! They are all these little flavor bombs that have a variety of flavors in these tiny 1 bite snacks. I loved the pepper broth they brought out first as it was simple but also the Gola Pepper they used had the aged and sour but hearty flavors that I hadn't had in a broth before.
 
+![](/uploads/ikoyi-1.jpeg "Gola Pepper Broth")
+
 The 3 bites consisted of a Smoked Sirloin, an Artichoke Caesar and Drunken Squid with Fermented Rice. All bites had a huge contrast in the textures combining crunchy with melty with flaky and it was overwhelming but in a good way. It felt like once I could pinpoint down how to describe a taste, another one would follow up and keep surprising me!
 
 ### Lead up to the Entrees
@@ -35,4 +37,4 @@ The main courses were a Cured Turbot and a Native Beef Rib with Jollof Rice. I p
 
 At this point I was ready to tap out because I was not expecting to get so full, but all the desserts were so different from each other it felt like I got a second wind. The Citrus and Pine sorbet was needed after such a heavy rice and meat dish. I wouldn't say it was that unique of a dessert but still really well done. The flower sugar with pepper was this glob of sweet and savory and spice that was my favorite dessert, even if it was really simple looking. The final dish had a little Ganache along with a Verbena Berry & Wasabi tart. This reused the 20 spices that they had added to earlier parts of the meal in the Bread, but as part of a sweet dish it really stood out.
 
-Overall, Ikoyi was easily the most expensive but one of the best meals I have ever had. It would be hard to recommend this to someone unless they came in ready to splurge but I will stand my ground and say it's worth it. The presentation of the food wasn't pretentious but there were more flavors than I could keep count of. I kept watching the chefs prepare with their assortment of bottles and I loved not being able to tell what 50% of the flavors I had were. They also phase out certain ingredients based on seasonality so hopefully someday I can come back during fresh local vegetable season! 
+Overall, Ikoyi was easily the most expensive but one of the best meals I have ever had. It would be hard to recommend this to someone unless they came in ready to splurge but I will stand my ground and say it's worth it. The presentation of the food wasn't pretentious but there were more flavors than I could keep count of. I kept watching the chefs prepare with their assortment of bottles and I loved not being able to tell what 50% of the flavors I had were. They also phase out certain ingredients based on seasonality so hopefully someday I can come back during fresh local vegetable season!
