@@ -18,6 +18,7 @@ The little plates that make up the beginning of the meal do a great job at givin
 ![Gola Pepper Broth](/uploads/ikoyi-1.jpeg)
 
 The 3 bites consisted of a Smoked Sirloin, an Artichoke Caesar and Drunken Squid with Fermented Rice. All bites had a huge contrast in the textures combining crunchy with melty with flaky and it was overwhelming but in a good way. It felt like once I could pinpoint down how to describe a taste, another one would follow up and keep surprising me!
+![Smoked Sirloin](/uploads/ikoyi-3.jpeg) ![Artichoke Caesar](/uploads/ikoyi-2.jpeg) ![Truffle](/uploads/ikoyi-4.jpeg)
 
 ### Lead up to the Entrees
 
